@@ -1,0 +1,6 @@
+This is the python backend to parse input from an Arduino handcontroller. 
+The input is parsed and mouse events are generated. 
+
+Written backend for both Linux and OS X. 
+
+The code for the Arduino is dependent on how your handcontroller is built, but it is easily revers engineered from the python back end source code. 
