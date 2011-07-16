@@ -4,3 +4,6 @@ The input is parsed and mouse events are generated.
 Written backend for both Linux and OS X. 
 
 The code for the Arduino is dependent on how your handcontroller is built, but it is easily revers engineered from the python back end source code. 
+
+
+To compile the Quartz library is needed. Install instructions are here http://blog.kejsarmakten.se/all/software/2011/05/22/generate-key-press-os-x-with-python.html
